@@ -1,4 +1,4 @@
-# ML_Videos
+# ML Youtube Videos
 Video Ressources about Machine Learning
 
 # Want to add a ressource ?
